@@ -126,5 +126,3 @@ SQL queries were used to:
 * Data Storytelling
 
 ---
-
-⭐ *If you like this project, feel free to star or share it!*
